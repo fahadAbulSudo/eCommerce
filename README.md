@@ -1,28 +1,33 @@
-E-Commerce Web App
+# E-Commerce Web App
+
 A simple E-Commerce web application built using React and Redux.
 
-Table of Contents
-Introduction
-Features
-Installation
-Usage
-Folder Structure
-Technologies Used
-Contributing
-License
-Introduction
+## Table of Contents
+
+--Introduction
+--Features
+--Installation
+--Usage
+--Folder Structure
+--Technologies Used
+--Contributing
+
+## Introduction
+
 This project is a basic E-Commerce web application where users can view, add, and manage products. It's built using React for the frontend and utilizes Redux for state management.
 
-Features
-View a list of products
-Add new products
-Edit existing products
-Delete products
-Add products to the shopping cart
-Installation
-Clone the repository:
+## Features
 
-bash
+--View a list of products
+--Add new products
+--Edit existing products
+--Delete products
+--Add products to the shopping cart
+
+## Installation
+--Clone the repository:
+
+ ```bash
 git clone <repository-url>
 Install dependencies:
 
