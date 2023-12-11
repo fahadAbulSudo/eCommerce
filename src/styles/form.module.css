@@ -1,0 +1,70 @@
+
+.formContainer {
+  border: 1px solid #ccc;
+  border-radius: 10px; 
+  background-color: cyan; /* Set the background color */
+  padding: 20px; /* Add padding for a better appearance */
+  margin: 20px; 
+  max-width: 500px; /* Set the maximum width */
+  margin: 0 auto; /* Center the form */
+}
+
+/* CSS for input groups */
+.inputGroup {
+  margin-bottom: 15px; 
+  display: block; /* Make labels block elements */
+  text-align: left; /* Align labels to the left */
+  margin-bottom: 5px;
+}
+
+/* CSS for labels */
+.label {
+  display: block; /* Make labels block elements */
+  text-align: left; /* Align labels to the left */
+  margin-bottom: 5px;
+}
+
+.description {
+  width: 100%; /* Set the width to 100% for full width */
+  padding: 10px; /* Add padding for better appearance */
+  box-sizing: border-box;
+  height: 40px; /* Set the height as needed */
+  resize: vertical; /* Allow vertical resizing */
+  overflow-y: auto; /* Add a scrollbar for overflow content */
+}
+
+.box {
+  width: 75%; /* Set the width to 100% for full width */
+  padding: 10px; /* Add padding for better appearance */
+  box-sizing: border-box;
+  height: 40px;
+}
+
+.btn {
+  padding: 12px 24px; /* Add padding for a bigger size */
+  margin-right: 10px; /* Add margin between the buttons */
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  border-radius: 8px;
+}
+
+/* Styles for the "Add Product" button */
+.btn.add {
+  background-color: green;
+  color: white;
+}
+
+.btn.add:hover {
+  background-color: darkgreen;
+}
+
+/* Styles for the "Clear" button */
+.btn.clear {
+  background-color: red;
+  color: white;
+}
+
+.btn.clear:hover {
+  background-color: maroon;
+}

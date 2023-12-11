@@ -1,0 +1,45 @@
+
+.productDetail {
+    padding: 20px;
+  }
+  
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Whisper', cursive;
+    font-size: 25px;
+  } 
+  
+.imageContainer {
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 20px; 
+  }
+  
+.circularImage {
+    width: 250px;
+    height: 250px; 
+    object-fit: cover;
+  }
+  
+.infoContainer {
+    text-align: right;
+  }
+  
+.star {
+    color: gold;
+  }
+  
+.descriptionSection {
+    margin-top: 20px;
+    font-family: 'Whisper', cursive;
+    font-size: 25px;
+  }
+
+.productDetail h2 {
+  font-family: 'Beau Rivage', cursive;
+}
+  
+  
