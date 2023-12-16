@@ -111,7 +111,7 @@ C:.
             navbar.module.css
             ProductDetail.module.css
 
-
+```
 
 ## Technologies Used
 -- React
