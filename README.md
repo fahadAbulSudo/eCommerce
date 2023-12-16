@@ -4,13 +4,13 @@ A simple E-Commerce web application built using React and Redux.
 
 ## Table of Contents
 
---Introduction
---Features
---Installation
---Usage
---Folder Structure
---Technologies Used
---Contributing
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
 
 ## Introduction
 
