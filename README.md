@@ -18,20 +18,20 @@ This project is a basic E-Commerce web application where users can view, add, an
 
 ## Features
 
---View a list of products
---Add new products
---Edit existing products
---Delete products
---Add products to the shopping cart
+- View a list of products
+- Add new products
+- Edit existing products
+- Delete products
+- Add products to the shopping cart
 
 ## Installation
---Clone the repository:
+- Clone the repository:
 
- ```bash
+ ```
 git clone https://github.com/Abhoredaj/eCommerce.git
 
 
---Install dependencies:
+- Install dependencies:
 
 ```bash
 cd eCommerce
