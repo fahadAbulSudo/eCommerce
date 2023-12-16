@@ -33,7 +33,7 @@ git clone https://github.com/Abhoredaj/eCommerce.git
 
 - Install dependencies:
 
-```bash
+```
 cd eCommerce
 npm install
 
@@ -41,7 +41,7 @@ npm install
 
 -- Start the development server:
 
-``bash
+```
 npm start
 
 
@@ -49,7 +49,7 @@ Open your browser and navigate to http://localhost:3000 to view the application.
 
 ## Folder Structure
 
-```bash
+```
 C:.
 │   package-lock.json
 │   package.json
@@ -114,9 +114,9 @@ C:.
 ```
 
 ## Technologies Used
--- React
--- Redux
--- React Router
+- React
+- Redux
+- React Router
 ...
 
 ## Contributing
