@@ -29,13 +29,14 @@ This project is a basic E-Commerce web application where users can view, add, an
 
  ```
 git clone https://github.com/Abhoredaj/eCommerce.git
-
+```
 
 - Install dependencies:
 
 ```
 cd eCommerce
 npm install
+```
 
 ## Usage
 
@@ -43,7 +44,7 @@ npm install
 
 ```
 npm start
-
+```
 
 Open your browser and navigate to http://localhost:3000 to view the application.
 
