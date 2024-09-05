@@ -14,7 +14,9 @@ A simple E-Commerce web application built using React and Redux.
 
 ## Introduction
 
-This project is a basic E-Commerce web application where users can view, add, and manage products. It's built using React for the frontend and utilizes Redux for state management.
+This project is a E-Commerce web application where users can view, add, and manage products. 
+The data can be add and fetched in real time and tackle to fetch information from API in Redux
+It's built using React for the frontend and utilizes Redux for state management.
 
 ## Features
 
